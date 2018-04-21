@@ -14,3 +14,14 @@ body {
     font-family: 'Do Hyeon', sans-serif;
     color: white;
 }
+
+.social-icons {
+    display: flex;
+    justify-content: center;
+}
+
+.social-icons i {
+    padding: 10px;
+    color: white;
+    font-size: 2em;
+}
